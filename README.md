@@ -47,6 +47,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/reno4705/reno4705/output/snake.svg" alt="Snake animation" />
-
 ###
