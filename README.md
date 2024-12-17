@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **benedictreno47@gmail.com**
 
-- 📄 Know about my experiences [Link](https://drive.google.com/file/d/1Walb12-E8IjM2Rufnq1sdwilorfLZUPP/view?usp=sharing)
+- 📄 Know about my experiences [Link]([https://drive.google.com/file/d/1Walb12-E8IjM2Rufnq1sdwilorfLZUPP/view?usp=sharing](https://drive.google.com/file/d/1A750CTmJFNUcEPaOv3zpLernXCCd78iT/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reno4705&show_icons=true&locale=en" alt="reno4705" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=reno4705" alt="reno4705" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=reno4705&" alt="reno4705" /></p>
