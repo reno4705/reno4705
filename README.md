@@ -4,7 +4,7 @@
  <!-- <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Front+end+Developer;Tech+Enthusiast;CSE+Undergrad"/> -->
 
 <!-- <img align="right" alt="Coding" width="400" src="https://lottie.host/embed/a81c83f9-2060-45c5-8d83-e3dbc5379220/oRuheHajMe.lottie"> -->
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dsn3xo7yk/image/upload/v1734715555/animation-1734712406089_7a2b4e21-ezgif.com-crop_jjdoqp.gif">
+<img align="right" alt="Coding" src="https://res.cloudinary.com/dsn3xo7yk/image/upload/v1734715555/animation-1734712406089_7a2b4e21-ezgif.com-crop_jjdoqp.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reno4705&label=Profile%20views&color=0e75b6&style=flat" alt="reno" /> </p>
 
@@ -44,9 +44,11 @@
 <hr/>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=reno4705&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=reno4705&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=reno4705&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reno4705&show_icons=true&locale=en&layout=compact" alt="reno" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reno4705&show_icons=true&locale=en" alt="reno" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reno4705&" alt="reno" /></p>
 
 
 ## ✍️ Random Dev Quote
