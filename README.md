@@ -3,29 +3,29 @@
 
  <!-- <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Front+end+Developer;Tech+Enthusiast;CSE+Undergrad"/> -->
 
-<p align="center" width="150px">I am currently a Second Year student at Chennai Institute of Technology pursuing my B.E degree in Computer Science and Engineering.Here to contribute in Open Source projects and learn new things on the go.</p>
 
-<img align="right" alt="Coding" width="400" src="https://lottie.host/embed/a81c83f9-2060-45c5-8d83-e3dbc5379220/oRuheHajMe.lottie">
+
+<!-- <img align="right" alt="Coding" width="400" src="https://lottie.host/embed/a81c83f9-2060-45c5-8d83-e3dbc5379220/oRuheHajMe.lottie"> -->
+<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reno4705&label=Profile%20views&color=0e75b6&style=flat" alt="reno" /> </p>
 
-# 💫 About Me:
-🔭 I’m currently working on DevOps-based projects.<br>👯 I’m looking to collaborate on web development and DevOps projects.<br>🌱 I’m currently learning to enhance my skills in the DevOps domain.<br>💬 Ask me about Full-Stack Development.<br>⚡ Fun fact: I bridge the gap between developers and operations with code and pipelines!
+## About Me:
+- 🔭 I’m currently working on DevOps-based projects.
+- 👯 I’m looking to collaborate on web development and DevOps projects.
+- 🌱 I’m currently learning to enhance my skills in the DevOps domain.
+- 💬 Ask me about Full-Stack Development.
+- ⚡ Fun fact: I bridge the gap between developers and operations with code and pipelines!
 
- 
  <!--START_SECTION-->
 
 ##  Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/m-a-reno-472005-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reno" height="30" width="40" /></a>
-
-<a href="https://www.codechef.com/users/reno4705" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="reno" height="30" width="40" /></a>
-
-<a href="https://www.hackerrank.com/profile/benedictreno47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="reno" height="30" width="40" /></a>
-
-<a href="https://www.leetcode.com/reno4705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="reno" height="30" width="40" /></a>
-
-<a href="https://www.geeksforgeeks.org/user/reno4705/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="reno" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/m-a-reno-472005-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-a-reno-472005-dev" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/reno47" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="reno47" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/reno_4705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="reno_4705" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/reno4705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="reno4705" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/reno4705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="reno4705" height="30" width="40" /></a>
 </p>
 
 
@@ -52,7 +52,4 @@
 
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
