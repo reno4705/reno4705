@@ -1,4 +1,4 @@
-<!-- ![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif) -->
+![MasterHead](https://res.cloudinary.com/dsn3xo7yk/image/upload/v1734715555/animation-1734712406089_7a2b4e21-ezgif.com-crop_jjdoqp.gif)
 <h1 align="center">Hi 👋, I'm M A RENO</h1>
 
  <!-- <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Front+end+Developer;Tech+Enthusiast;CSE+Undergrad"/> -->
@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reno4705&label=Profile%20views&color=0e75b6&style=flat" alt="reno" /> </p>
 
-<h3 align="left">About me:</h3>
+## About Me:
 - 🔭 I’m currently working on DevOps-based projects.
 - 👯 I’m looking to collaborate on web development and DevOps projects.
 - 🌱 I’m currently learning to enhance my skills in the DevOps domain.
