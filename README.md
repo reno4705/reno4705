@@ -1,4 +1,4 @@
-![MasterHead](https://res.cloudinary.com/dsn3xo7yk/image/upload/v1734715555/animation-1734712406089_7a2b4e21-ezgif.com-crop_jjdoqp.gif)
+![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
 <h1 align="center">Hi 👋, I'm M A RENO</h1>
 
  <!-- <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Front+end+Developer;Tech+Enthusiast;CSE+Undergrad"/> -->
@@ -48,7 +48,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reno4705&show_icons=true&locale=en" alt="reno" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reno4705&" alt="reno" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reno4705&" alt="reno" /></p> -->
 
 
 ## ✍️ Random Dev Quote
