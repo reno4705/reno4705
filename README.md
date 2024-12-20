@@ -3,14 +3,12 @@
 
  <!-- <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Front+end+Developer;Tech+Enthusiast;CSE+Undergrad"/> -->
 
-
-
 <!-- <img align="right" alt="Coding" width="400" src="https://lottie.host/embed/a81c83f9-2060-45c5-8d83-e3dbc5379220/oRuheHajMe.lottie"> -->
-<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dsn3xo7yk/image/upload/v1734715555/animation-1734712406089_7a2b4e21-ezgif.com-crop_jjdoqp.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reno4705&label=Profile%20views&color=0e75b6&style=flat" alt="reno" /> </p>
 
-## About Me:
+<h3 align="left">About me:</h3>
 - 🔭 I’m currently working on DevOps-based projects.
 - 👯 I’m looking to collaborate on web development and DevOps projects.
 - 🌱 I’m currently learning to enhance my skills in the DevOps domain.
