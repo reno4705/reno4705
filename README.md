@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reno4705&label=Profile%20views&color=0e75b6&style=flat" alt="reno" /> </p>
 
-## About Me:
+<h3 align="left">About Me:</h3>
 - 🔭 I’m currently working on DevOps-based projects.
 - 👯 I’m looking to collaborate on web development and DevOps projects.
 - 🌱 I’m currently learning to enhance my skills in the DevOps domain.
