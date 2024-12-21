@@ -48,8 +48,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reno4705&show_icons=true&locale=en&layout=compact" alt="reno" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=reno4705&show_icons=true&locale=en" alt="reno" /></p>
-<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reno4705&" alt="reno" /></p>
+<br/><br/><br/><br/>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=reno4705&" alt="reno" /></p>
 
 <br/>
 
