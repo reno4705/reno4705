@@ -1,10 +1,7 @@
-![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
+![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ3NDk1NjUsIm5iZiI6MTczNDc0OTI2NSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjIxVDAyNDc0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRkYzYzOWJhNWU0ODQ1MzA1ODI4NDRjNjJlZmUzODA1NTA4MzQ3ZjA5YTgxNmFlNjFiYTQ2ZjhhYTRiZjY2ODUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.MbPIoI30L_mFTE4PXtMoXrkjFI5H7gVZwENZzyiCsSw)
 <h1 align="center">Hi 👋, I'm M A RENO</h1>
 
- <!-- <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Front+end+Developer;Tech+Enthusiast;CSE+Undergrad"/> -->
-
-<!-- <img align="right" alt="Coding" width="400" src="https://lottie.host/embed/a81c83f9-2060-45c5-8d83-e3dbc5379220/oRuheHajMe.lottie"> -->
-<img align="right" alt="Coding" src="https://res.cloudinary.com/dsn3xo7yk/image/upload/v1734715555/animation-1734712406089_7a2b4e21-ezgif.com-crop_jjdoqp.gif">
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reno4705&label=Profile%20views&color=0e75b6&style=flat" alt="reno" /> </p>
 
