@@ -25,6 +25,7 @@
 <a href="https://www.leetcode.com/reno4705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="reno4705" height="30" width="40" /></a>
 </p>
 
+<hr/>
 
 ## 💻 Tech Stack:
 
@@ -51,7 +52,7 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=reno4705&show_icons=true&locale=en" alt="reno" /></p>
 
 <br/>
-<br/>
+<hr/>
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
