@@ -13,7 +13,7 @@
 - 💬 Ask me about **Full-Stack Development.**
 - 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1A750CTmJFNUcEPaOv3zpLernXCCd78iT/view?usp=sharing)
 <!-- - ⚡ Fun fact: **I bridge the gap between developers and operations with code and pipelines!** -->
-<br/><br/><br/><br/>
+<br/><br/>
  <!--START_SECTION-->
 
 ##  Connect with me:
