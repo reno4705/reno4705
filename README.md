@@ -1,5 +1,5 @@
 <!-- ![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ3NDk1NjUsIm5iZiI6MTczNDc0OTI2NSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjIxVDAyNDc0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRkYzYzOWJhNWU0ODQ1MzA1ODI4NDRjNjJlZmUzODA1NTA4MzQ3ZjA5YTgxNmFlNjFiYTQ2ZjhhYTRiZjY2ODUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.MbPIoI30L_mFTE4PXtMoXrkjFI5H7gVZwENZzyiCsSw) -->
-<h1 align="center">Hi 👋, I'm M A RENO</h1>
+<h1 align="center">Hi 👋, I'm RENO</h1>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
