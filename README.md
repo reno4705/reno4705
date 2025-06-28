@@ -1,4 +1,3 @@
-<!-- ![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ3NDk1NjUsIm5iZiI6MTczNDc0OTI2NSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjIxVDAyNDc0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRkYzYzOWJhNWU0ODQ1MzA1ODI4NDRjNjJlZmUzODA1NTA4MzQ3ZjA5YTgxNmFlNjFiYTQ2ZjhhYTRiZjY2ODUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.MbPIoI30L_mFTE4PXtMoXrkjFI5H7gVZwENZzyiCsSw) -->
 <h1 align="center">Hi 👋, I'm RENO</h1>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
@@ -45,12 +44,31 @@
 
 ## 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reno4705&show_icons=true&locale=en&layout=compact" alt="reno" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=reno4705&show_icons=true&locale=en" alt="reno" /></p>
-<br/><br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reno4705&" alt="reno" /></p>
-
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reno4705&theme=github_dark" alt="Reno's GitHub Profile Details Card"/>
+  </a>
+  <br/> <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reno4705&theme=github_dark&exclude=html" alt="Reno's GitHub Repositories per Language Card"/>
+  </a>
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reno4705&theme=github_dark&exclude=html" alt="Reno's GitHub Most Commit Language Card"/>
+  </a>
+  <br/>
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=reno4705&theme=github_dark" alt="Reno's GitHub Stats Card"/>
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reno4705&theme=github_dark&utcOffset=8" alt="Reno's GitHub Productive Time Card"/>
+  </a>
+</div>
+<!-- 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reno4705&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reno4705&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reno4705&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=reno4705&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reno4705&theme=github_dark&utcOffset=8) 
+-->
 <br/>
 
 ## ✍️ Random Dev Quote
