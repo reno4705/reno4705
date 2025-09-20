@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on **web development and DevOps projects.**
 - 🌱 I’m currently learning to **enhance my skills in the DevOps domain.**
 - 💬 Ask me about **Full-Stack Development.**
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1AqBgg1-p60TaUCy5RtqeDBTBJgDaYl88/view?usp=sharing )
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1-vNs87Op4c6jGDiZxp95rRL4QSWCVJ6I/view?usp=sharing)
 <!-- - ⚡ Fun fact: **I bridge the gap between developers and operations with code and pipelines!** -->
 <br/><br/>
  <!--START_SECTION-->
